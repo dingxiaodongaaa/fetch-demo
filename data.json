@@ -1,0 +1,23 @@
+{
+    "code": "8888",
+    "msg": "成功",
+    "data": [
+      {
+        "id": 4,
+        "parentId": null,
+        "parentIds": null,
+        "code": "1",
+        "name": "黄村西大街附近区域",
+        "sort": 1,
+        "type": "1",
+        "color": "#d7a6dd",
+        "lonId": 116.334808,
+        "latId": 39.729907,
+        "remarks": "黄村西大街附近区域",
+        "level": 1,
+        "levelName": "一级"
+      }
+    ],
+    "trace": null
+  }
+  
